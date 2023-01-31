@@ -19,21 +19,19 @@
     transition: 0.3s;
    
 }
+
+.navigation{
+    background-color: #FFF8F3;
+}
+.hero{
+    background-color: #FFF8F3;  
+}
 .sides{
     padding-right: 130px;
 }
 .btn-nav:hover{
     color:#CF5500;
     transition: 0.3s;
-
-}
-
-.full-back{
-    background: url(/Image/Rectangle\ 4.png) ;
-    background-size: cover;
-    width: 100%;
-    height: 837px;
-    
 
 }
 .btn-download{
@@ -57,7 +55,7 @@
     color:#FD6E0A;
     width: 160px;
     height: 64px;
-    outline:none;
+    border-style: solid;
   
         
 }
@@ -96,10 +94,7 @@ border-radius: 4px;
     background:#CF5500;
     transition: 0.3s;
 }
-.align{
-    padding-left:500px;
-    padding-top: 30px;
-}
+
 .footer{
     background: url(/Image/footer-bg.png);
     background-size: cover;

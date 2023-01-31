@@ -57,6 +57,7 @@
     color:#FD6E0A;
     width: 160px;
     height: 64px;
+    outline:none;
   
         
 }
@@ -98,4 +99,24 @@ border-radius: 4px;
 .align{
     padding-left:500px;
     padding-top: 30px;
+}
+.footer{
+    background: url(/Image/footer-bg.png);
+    background-size: cover;
+    height:auto;
+    width:100%;
+}
+.submit{
+    background: #FD6E0A;
+    border:none;
+    outline: none;
+    color: white;
+    width: 150px;
+    height: 64px;
+border-radius: 4px;
+}
+.submit:hover{
+    background:#CF5500;
+    transition: 0.3s;
+   
 }

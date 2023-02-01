@@ -4,6 +4,8 @@
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
 }
+
+
 .btn_hire{
     background: #FD6E0A;
     color:white;
@@ -67,10 +69,8 @@
     border:none;
 }
 .about{
-    background: url(/Image/bg-about.png);
-    width: 1140px;
-    height:auto;
-    Height:550px;
+    background: #FFF8F3;
+   
     
 }
 .card{
@@ -96,7 +96,7 @@ border-radius: 4px;
 }
 
 .footer{
-    background: url(/Image/footer-bg.png);
+    background:#FFF8F3;
     background-size: cover;
     height:auto;
     width:100%;
